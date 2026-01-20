@@ -61,6 +61,6 @@
 ## Quick Comparison
 | Provider | Free Tier Type | Duration | Card Required | Notes |
 |---------|----------------|----------|--------------|------|
-| Azure   | Free services + trial credits | 12 months + limited credits | Usually Yes | Good for learning and labs |
+| Azure   | Free services + trial credits | 12 months + limited credits | Yes | Good for learning and labs |
 | AWS     | Usage-limited free tier | 12 months | Yes | Avoid accidental paid services |
-| GCP     | Trial credits + always free | ~90 days | Usually Yes | Credits expire after trial |
+| GCP     | Trial credits + always free | 90 days | Usually Yes | Credits expire after trial |
