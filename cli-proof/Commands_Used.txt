@@ -1,0 +1,12 @@
+az --version
+az login --use-device-code
+az account show
+az account list --output table
+az account list-locations --output table
+az group list --output table
+az resource list --output table
+az provider list --output table
+az group create --name task8-demo --location germanywestcentral
+az group show --name task8-demo
+az group delete --name task8-demo --yes --no-wait
+az group list --output table
