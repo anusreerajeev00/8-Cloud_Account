@@ -1,6 +1,6 @@
 # Part A — Research (Free Tier Comparison)
 
-## What is Cloud Computing? (5–8 lines)
+## What is Cloud Computing?
 Cloud computing means using computing services like servers, storage, databases, networking, and software through the internet instead of owning physical hardware.  
 It allows users to access resources on-demand from anywhere with an internet connection.  
 Cloud makes it easy to scale up or scale down resources depending on usage.  
