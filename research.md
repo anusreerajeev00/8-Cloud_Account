@@ -1,12 +1,12 @@
 # Part A — Research (Free Tier Comparison)
 
 ## What is Cloud Computing?
-Cloud computing means using computing services like servers, storage, databases, networking, and software through the internet instead of owning physical hardware.  
-It allows users to access resources on-demand from anywhere with an internet connection.  
-Cloud makes it easy to scale up or scale down resources depending on usage.  
-It reduces cost because we don’t need to buy and maintain expensive systems locally.  
-Most cloud providers offer pay-as-you-go pricing and free tiers for beginners.  
-Cloud is widely used for hosting websites, running applications, storing data, and backups.
+- Cloud computing means using computing services like servers, storage, databases, networking, and software through the internet instead of owning physical hardware.  
+- It allows users to access resources on-demand from anywhere with an internet connection.  
+- Cloud makes it easy to scale up or scale down resources depending on usage.  
+- It reduces cost because we don’t need to buy and maintain expensive systems locally.  
+- Most cloud providers offer pay-as-you-go pricing and free tiers for beginners.  
+- Cloud is widely used for hosting websites, running applications, storing data, and backups.
 
 ---
 
